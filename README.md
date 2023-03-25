@@ -18,6 +18,7 @@ This is by far the most comfortable keyboard that I have designed and used! I or
 
 ![](pictures/1.jpeg)
 ![](pictures/2.jpeg)
+![](pictures/3.jpeg)
 
 ## Sponsorship
 
